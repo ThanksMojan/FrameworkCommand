@@ -7,7 +7,7 @@
 - **Automatic Command Registration**: Use annotations to register commands directly in your code.
 - **Descriptions and Usages**: Set descriptions and usage examples for each command.
 - **Aliases**: Define aliases for your commands, allowing multiple ways to invoke them.
-- **Subcommands**: Organize your commands with subcommands for better structure.
+- **ExampleCommand**: Organize your commands with examplecommand for better structure.
 - **Easy Integration**: Seamlessly integrates into any Bukkit/Spigot plugin.
 
 ## Usage Example

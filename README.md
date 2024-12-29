@@ -1,6 +1,6 @@
-# CommandFramework
+# FrameworkCommand
 
-**CommandFramework** is a lightweight annotation-based command system for Bukkit/Spigot plugins. It simplifies command creation and management by eliminating the need to register commands in `plugin.yml`.
+**FrameworkCommand** is a lightweight annotation-based command system for Bukkit/Spigot plugins. It simplifies command creation and management by eliminating the need to register commands in "ExampleCommand.kt".
 
 ## Features
 
@@ -15,9 +15,11 @@
 ### Plugin Setup
 
 ```java
-import git.thankmojan.arguments.IntegerArgument
-import git.thankmojan.arguments.StringArgument
-import git.thankmojan.utils.CC
+package git.thanksmojan.commands
+
+import git.thanksmojan.arguments.IntegerArgument
+import git.thanksmojan.arguments.StringArgument
+import git.thanksmojan.utils.CC
 
 class ExampleCommand : BaseCommand("example", "An example command") {
     init {

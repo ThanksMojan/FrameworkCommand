@@ -1,0 +1,55 @@
+[33mcommit b67faabdd1fc8cce10ddae643347332cbab2ebd3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 80af16c 45f6e15
+Author: ThanksMojan <francisco.soportes@gmail.com>
+Date:   Sun Dec 29 22:29:15 2024 -0300
+
+    implemented jitpack.io
+
+[33mcommit 80af16c212c22ea56072a65fb1aff96a2c2b47a7[m
+Author: ThanksMojan <francisco.soportes@gmail.com>
+Date:   Sun Dec 29 20:22:27 2024 -0300
+
+    upload
+
+[33mcommit 45f6e152c94f3b5a5c123455c7e4b6f0ec2621a7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Francisco Jeremias <136653598+ThanksMojan@users.noreply.github.com>
+Date:   Sun Dec 29 20:19:34 2024 -0300
+
+    CC.kt
+
+[33mcommit 852006f65731ecc28d42c9bdbc43be78f3979e2e[m
+Merge: ad41e0c 6cd4b03
+Author: ThanksMojan <francisco.soportes@gmail.com>
+Date:   Sun Dec 29 20:11:10 2024 -0300
+
+    upload
+
+[33mcommit 6cd4b03ce20158ca105a0cc0608f55e418b896a7[m
+Author: Francisco Jeremias <136653598+ThanksMojan@users.noreply.github.com>
+Date:   Sun Dec 29 20:10:11 2024 -0300
+
+    README.md
+
+[33mcommit ad41e0cb0b3b832d0c7dacad8d64bca56bc53d3a[m
+Author: Francisco Jeremias <136653598+thanksmojan@users.noreply.github.com>
+Date:   Sun Dec 29 19:34:06 2024 -0300
+
+    upload
+
+[33mcommit 3f46f8d92b4a6f168cc0c8424505ed34de1b5914[m
+Author: Francisco Jeremias <136653598+ThanksMojan@users.noreply.github.com>
+Date:   Sun Dec 29 20:06:23 2024 -0300
+
+    README.md
+
+[33mcommit 2b4d1776a91f0130423b201d98e0965878a496f0[m
+Author: Francisco Jeremias <136653598+ThanksMojan@users.noreply.github.com>
+Date:   Sun Dec 29 20:04:44 2024 -0300
+
+    README.md
+
+[33mcommit 0eb032a93fe2eec012114a8e9ee36b6b688e68b6[m
+Author: Francisco Jeremias <136653598+ThanksMojan@users.noreply.github.com>
+Date:   Sun Dec 29 19:34:06 2024 -0300
+
+    Initial commit

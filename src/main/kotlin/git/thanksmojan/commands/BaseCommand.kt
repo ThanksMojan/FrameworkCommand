@@ -19,7 +19,7 @@ abstract class BaseCommand(val name: String, val description: String) {
         }
     }
 
-    protected fun validateArguments(args: Array<out String>): Boolean {
-        return args.size >= arguments.size && arguments.zip(args).all { (arg, value) -> arg.validate(value) }
+    fun validateArguments(args: Array<out String>): Boolean {
+        return args.size == arguments.size && arguments.zip(args).all { (arg, value) -> arg.validate(value) }
     }
 }
